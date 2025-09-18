@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahil1024
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C ,C++ language
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me sahilbansal101@gmail.com
 
